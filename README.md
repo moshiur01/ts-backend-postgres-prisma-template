@@ -61,3 +61,9 @@ yarn add @prisma/client
 ```
 
 This command installs the Prisma Client, which provides an interface to interact with your database.
+
+Add husky
+
+```bash
+yarn add husky
+```
